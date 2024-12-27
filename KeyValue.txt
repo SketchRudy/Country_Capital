@@ -1,0 +1,5 @@
+"USA", "DC"
+"Canada", "Ottawa"
+"Brazil", "Brasilia"
+"Japan", "Tokyo"
+"France", "Paris"
