@@ -1,6 +1,6 @@
 # Country Capital Lookup System
 
-### Author: Rudolf Sirbu
+### Author: Rudy S
 **Date**: May 27, 2024
 
 ---
